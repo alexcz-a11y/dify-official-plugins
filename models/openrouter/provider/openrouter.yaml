@@ -2,6 +2,7 @@ background: '#F1EFED'
 configurate_methods:
 - predefined-model
 - customizable-model
+- fetch-from-remote
 extra:
   python:
     model_sources:
